@@ -1,0 +1,13 @@
+.element{
+	color: blue;
+}
+.demise{
+	color: red;
+}
+.hero{
+	color: green;
+}
+body {
+	background-color: black;
+	color: white;
+}
